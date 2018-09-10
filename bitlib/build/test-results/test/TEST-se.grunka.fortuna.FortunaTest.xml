@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="se.grunka.fortuna.FortunaTest" tests="2" skipped="1" failures="0" errors="0" timestamp="2018-09-06T03:25:02" hostname="DESKTOP-DNCHF7U" time="4.888">
+  <properties/>
+  <testcase name="shouldProduceEvenDistribution" classname="se.grunka.fortuna.FortunaTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="shouldCreateInstanceAndWaitForInitialization" classname="se.grunka.fortuna.FortunaTest" time="4.888"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

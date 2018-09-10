@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mrd.bitlib.StandardTransactionBuilderTest" tests="8" skipped="2" failures="0" errors="0" timestamp="2018-09-06T03:25:02" hostname="DESKTOP-DNCHF7U" time="0.073">
+  <properties/>
+  <testcase name="testCreateUnsignedTransactionWithChange" classname="com.mrd.bitlib.StandardTransactionBuilderTest" time="0.024"/>
+  <testcase name="testCreateUnsignedTransactionMinToFee" classname="com.mrd.bitlib.StandardTransactionBuilderTest" time="0.0"/>
+  <testcase name="testList" classname="com.mrd.bitlib.StandardTransactionBuilderTest" time="0.049"/>
+  <testcase name="testEmptyList" classname="com.mrd.bitlib.StandardTransactionBuilderTest" time="0.0"/>
+  <testcase name="generateSignaturesBitlib" classname="com.mrd.bitlib.StandardTransactionBuilderTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSingleList" classname="com.mrd.bitlib.StandardTransactionBuilderTest" time="0.0"/>
+  <testcase name="testCreateUnsignedTransactionWithoutChange" classname="com.mrd.bitlib.StandardTransactionBuilderTest" time="0.0"/>
+  <testcase name="generateSignaturesBitcoinJ" classname="com.mrd.bitlib.StandardTransactionBuilderTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

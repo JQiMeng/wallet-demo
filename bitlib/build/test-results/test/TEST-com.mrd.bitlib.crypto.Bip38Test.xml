@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mrd.bitlib.crypto.Bip38Test" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-09-06T03:24:40" hostname="DESKTOP-DNCHF7U" time="19.731">
+  <properties/>
+  <testcase name="testVectorsForDecryptOnly" classname="com.mrd.bitlib.crypto.Bip38Test" time="7.042"/>
+  <testcase name="testVectorsFromTheBipDecrypt" classname="com.mrd.bitlib.crypto.Bip38Test" time="8.433"/>
+  <testcase name="testVectorsFromTheBipEncrypt" classname="com.mrd.bitlib.crypto.Bip38Test" time="4.253"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

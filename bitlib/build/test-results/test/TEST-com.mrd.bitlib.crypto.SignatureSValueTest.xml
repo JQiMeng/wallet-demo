@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mrd.bitlib.crypto.SignatureSValueTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-09-06T03:25:02" hostname="DESKTOP-DNCHF7U" time="0.062">
+  <properties/>
+  <testcase name="checkSValueDeterministic" classname="com.mrd.bitlib.crypto.SignatureSValueTest" time="0.031"/>
+  <testcase name="checkSValue" classname="com.mrd.bitlib.crypto.SignatureSValueTest" time="0.031"/>
+  <testcase name="testSValue" classname="com.mrd.bitlib.crypto.SignatureSValueTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

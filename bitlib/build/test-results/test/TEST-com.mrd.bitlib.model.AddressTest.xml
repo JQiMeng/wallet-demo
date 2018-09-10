@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mrd.bitlib.model.AddressTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-09-06T03:25:02" hostname="DESKTOP-DNCHF7U" time="0.006">
+  <properties/>
+  <testcase name="standardAddressTest" classname="com.mrd.bitlib.model.AddressTest" time="0.0"/>
+  <testcase name="multisigAddressTest" classname="com.mrd.bitlib.model.AddressTest" time="0.0"/>
+  <testcase name="standardAddressTestFromBytes" classname="com.mrd.bitlib.model.AddressTest" time="0.0"/>
+  <testcase name="toStringTest" classname="com.mrd.bitlib.model.AddressTest" time="0.005"/>
+  <system-out><![CDATA[1L5388U4ECaquNzETP1ASxFJSC4W41zWW8
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

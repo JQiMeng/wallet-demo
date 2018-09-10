@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mrd.bitlib.crypto.StandardBitcoinSigning" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-09-06T03:25:02" hostname="DESKTOP-DNCHF7U" time="0.083">
+  <properties/>
+  <testcase name="testKeyDecompress" classname="com.mrd.bitlib.crypto.StandardBitcoinSigning" time="0.0"/>
+  <testcase name="testVerification" classname="com.mrd.bitlib.crypto.StandardBitcoinSigning" time="0.025"/>
+  <testcase name="testFailsWrongSignature" classname="com.mrd.bitlib.crypto.StandardBitcoinSigning" time="0.013"/>
+  <testcase name="testSignatureCreation" classname="com.mrd.bitlib.crypto.StandardBitcoinSigning" time="0.044"/>
+  <system-out><![CDATA[given Address did not match 
+expected 16F9yVJYb267n8rq5sDCU2xmDpxNajUfLV
+ but got 12H9fCqB2Rf3AsgqvyDXV5Q3LmRuL96vvC
+Header byte out of range: 105
+INPSIY1DtaZCi7RH6KY9LFLFaKqSB1YElp6IbpIpicpdYgj/kIsZBaQjcHyXGETn5GI5HH79thDBcU5KgNR3B44=
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

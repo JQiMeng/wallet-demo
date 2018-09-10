@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mrd.bitlib.crypto.MrdExportTest" tests="13" skipped="2" failures="0" errors="0" timestamp="2018-09-06T03:25:01" hostname="DESKTOP-DNCHF7U" time="1.208">
+  <properties/>
+  <testcase name="lowMemoryScryptParams" classname="com.mrd.bitlib.crypto.MrdExportTest" time="0.164"/>
+  <testcase name="passwordChecksum" classname="com.mrd.bitlib.crypto.MrdExportTest" time="0.0"/>
+  <testcase name="testSpeed_lowMem" classname="com.mrd.bitlib.crypto.MrdExportTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="wrongNetworkInParameters" classname="com.mrd.bitlib.crypto.MrdExportTest" time="0.096"/>
+  <testcase name="testSpeed" classname="com.mrd.bitlib.crypto.MrdExportTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="generatePasswordTest" classname="com.mrd.bitlib.crypto.MrdExportTest" time="0.001"/>
+  <testcase name="testDifferentSalt" classname="com.mrd.bitlib.crypto.MrdExportTest" time="0.232"/>
+  <testcase name="wrongAesKeyInParameters" classname="com.mrd.bitlib.crypto.MrdExportTest" time="0.119"/>
+  <testcase name="headerDecodingTest" classname="com.mrd.bitlib.crypto.MrdExportTest" time="0.016"/>
+  <testcase name="encryptWithCompression" classname="com.mrd.bitlib.crypto.MrdExportTest" time="0.114"/>
+  <testcase name="encryptWithoutCompression" classname="com.mrd.bitlib.crypto.MrdExportTest" time="0.114"/>
+  <testcase name="testMasterSeed" classname="com.mrd.bitlib.crypto.MrdExportTest" time="0.128"/>
+  <testcase name="testDifferentPasswords" classname="com.mrd.bitlib.crypto.MrdExportTest" time="0.223"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

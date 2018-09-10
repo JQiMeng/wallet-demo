@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mrd.bitlib.crypto.BipSssTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2018-09-06T03:25:00" hostname="DESKTOP-DNCHF7U" time="0.005">
+  <properties/>
+  <testcase name="tvTest1" classname="com.mrd.bitlib.crypto.BipSssTest" time="0.002"/>
+  <testcase name="tvTest2" classname="com.mrd.bitlib.crypto.BipSssTest" time="0.0"/>
+  <testcase name="tvTest3" classname="com.mrd.bitlib.crypto.BipSssTest" time="0.001"/>
+  <testcase name="tvTest4" classname="com.mrd.bitlib.crypto.BipSssTest" time="0.0"/>
+  <testcase name="tvTest5" classname="com.mrd.bitlib.crypto.BipSssTest" time="0.0"/>
+  <testcase name="tvTest6" classname="com.mrd.bitlib.crypto.BipSssTest" time="0.001"/>
+  <testcase name="tvTest7" classname="com.mrd.bitlib.crypto.BipSssTest" time="0.0"/>
+  <testcase name="tvTest8" classname="com.mrd.bitlib.crypto.BipSssTest" time="0.001"/>
+  <testcase name="tvTest9" classname="com.mrd.bitlib.crypto.BipSssTest" time="0.0"/>
+  <testcase name="IncompatibleShares" classname="com.mrd.bitlib.crypto.BipSssTest" time="0.0"/>
+  <testcase name="notEnoughShares" classname="com.mrd.bitlib.crypto.BipSssTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

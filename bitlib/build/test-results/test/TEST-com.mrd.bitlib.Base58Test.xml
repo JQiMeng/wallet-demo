@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mrd.bitlib.Base58Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-09-06T03:24:40" hostname="DESKTOP-DNCHF7U" time="0.003">
+  <properties/>
+  <testcase name="testSimpleCases" classname="com.mrd.bitlib.Base58Test" time="0.003"/>
+  <testcase name="testNull" classname="com.mrd.bitlib.Base58Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

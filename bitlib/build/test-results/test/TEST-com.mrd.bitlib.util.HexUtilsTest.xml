@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mrd.bitlib.util.HexUtilsTest" tests="4" skipped="2" failures="0" errors="0" timestamp="2018-09-06T03:25:02" hostname="DESKTOP-DNCHF7U" time="0.004">
+  <properties/>
+  <testcase name="toBytes" classname="com.mrd.bitlib.util.HexUtilsTest" time="0.003"/>
+  <testcase name="toHex" classname="com.mrd.bitlib.util.HexUtilsTest" time="0.0"/>
+  <testcase name="toBytesSpeedBitlib" classname="com.mrd.bitlib.util.HexUtilsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="toBytesSpeedSpongy" classname="com.mrd.bitlib.util.HexUtilsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
